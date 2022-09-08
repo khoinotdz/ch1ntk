@@ -1,0 +1,17 @@
+body{
+    background-image: url("3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.content-1{
+    text-decoration: none;
+    color: blue;
+    text-align: center;
+}
+.content-2{
+    color: yellow;
+}
+.footer{
+    text-align: center;
+}
